@@ -1,1 +1,1 @@
-https://ins2-predict.herokuapp.com/
+https://premium-pred-by-dinesh-suthar.herokuapp.com/
